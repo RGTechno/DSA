@@ -22,7 +22,9 @@ int prefixMaxSumSubArray(int a[], int n)
     {
         for (int j = i; j < n; j++)
         {
-            maxSum = i > 0 ? prefix[j] - prefix[i - 1] : prefix[j];
+            int sum = 0;
+            sum = i > 0 ? prefix[j] - prefix[i - 1] : prefix[j];
+            maxSum = max(maxSum, sum);
         }
     }
     return maxSum;
@@ -33,6 +35,6 @@ int main()
     int a[] = {-2, 30, 54, 10, 23, 32, -10, 48, -99, 117, 32};
     int n = sizeof(a) / sizeof(int);
 
-    cout << prefixMaxSumSubArray(a,n) << endl;
+    cout << prefixMaxSumSubArray(a, n) << endl;
     return 0;
 }
