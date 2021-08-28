@@ -3,6 +3,8 @@ using namespace std;
 
 // Problem : Print sum of sub arrays and find the largest sum;
 
+// Brute Force Approach O(N^3) time
+
 int sumOfSubArray(int a[], int n)
 {
     int maxSum = 0;
