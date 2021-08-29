@@ -1,6 +1,15 @@
-> ## *Algorithms and Questions Topic Wise*
+> ## ***Algorithms and Questions Topic Wise***
 
-1. **Arrays**
+<details>
+  <summary>DSA Sheet</summary>
+
+  ***Array***
+
+  - [Sum of elements](./DSA%20Sheet/Array/sumOfElements.cpp)
+  - [Searching a number](./DSA%20Sheet/Array/searchingANumber.cpp)
+</details>
+
+1. ### **Arrays**
 
    - [Linear Search](./Array/linearSearch.cpp)
    - [Binary Search](./Array/binarySearch.cpp)
