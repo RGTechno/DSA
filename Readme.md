@@ -21,3 +21,4 @@
      - [Maximum Subarray Sum](./Array/Coding%20Exercises/CM_maxSum.cpp)
      - [Lower Bound](./Array/Coding%20Exercises/CM_lowerBound.cpp)
      - [Sorted Pair Sum](./Array/Coding%20Exercises/CM_SortedPairSum.cpp)
+     - [K Rotate](./Array/Coding%20Exercises/CM_kRotate.cpp)
