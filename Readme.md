@@ -36,3 +36,4 @@
 2. ### **Sorting Algorithms**
 
    - [Bubble Sort](./Sorting%20Algorithms/bubbleSort.cpp)
+   - [Selection Sort](./Sorting%20Algorithms/selectionSort.cpp)
