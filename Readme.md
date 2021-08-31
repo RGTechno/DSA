@@ -39,3 +39,4 @@
    - [Selection Sort](./Sorting%20Algorithms/selectionSort.cpp)
    - [Insertion Sort](./Sorting%20Algorithms/insertionSort.cpp)
    - [Counting Sort](./Sorting%20Algorithms/countingSort.cpp)
+   - [Inbuilt Sort](./Sorting%20Algorithms/inbuiltSort.cpp)
