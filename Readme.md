@@ -37,3 +37,4 @@
 
    - [Bubble Sort](./Sorting%20Algorithms/bubbleSort.cpp)
    - [Selection Sort](./Sorting%20Algorithms/selectionSort.cpp)
+   - [Insertion Sort](./Sorting%20Algorithms/insertionSort.cpp)
