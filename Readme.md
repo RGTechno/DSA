@@ -40,3 +40,9 @@
    - [Insertion Sort](./Sorting%20Algorithms/insertionSort.cpp)
    - [Counting Sort](./Sorting%20Algorithms/countingSort.cpp)
    - [Inbuilt Sort](./Sorting%20Algorithms/inbuiltSort.cpp)
+
+    ___
+
+   - Coding Exercises
+
+     - [Sorting Comparators](./Sorting%20Algorithms/Coding%20Exercises/CM_sortingComparator.cpp)
