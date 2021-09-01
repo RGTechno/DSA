@@ -47,3 +47,6 @@
 
      - [Sorting Comparators](./Sorting%20Algorithms/Coding%20Exercises/CM_sortingComparator.cpp)
      - [Sorting Cartesian Point](./Sorting%20Algorithms/Coding%20Exercises/CM_sortingCartesianPoints.cpp)
+     - [Chopsticks](./Sorting%20Algorithms/Coding%20Exercises/CM_chopsticks.cpp)
+
+     
