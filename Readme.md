@@ -7,6 +7,7 @@
 
   - [Sum of elements](./DSA%20Sheet/Array/sumOfElements.cpp)
   - [Searching a number](./DSA%20Sheet/Array/searchingANumber.cpp)
+  - [Kadane's Algo](./DSA%20Sheet/Array/kadane'sAlgo.cpp)
 </details>
 
 1. ### **Arrays**
