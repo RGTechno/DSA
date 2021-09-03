@@ -52,4 +52,20 @@
      - [Sorting Cartesian Point](./Sorting%20Algorithms/Coding%20Exercises/CM_sortingCartesianPoints.cpp)
      - [Chopsticks](./Sorting%20Algorithms/Coding%20Exercises/CM_chopsticks.cpp)
      - [Defense Kingdom](./Sorting%20Algorithms/Coding%20Exercises/CM_defenseKingdom.cpp)
+
+
+3. ### **Character Array and Strings**
+
+   - [cin.get()](./Character%20Arrays%20&%20Strings/cin_get.cpp)
+   - [cin.getline()](./Character%20Arrays%20&%20Strings/cin_getline.cpp)
+   - [Inbuilt Cstring operations](./Character%20Arrays%20&%20Strings/inbuilt_operations.cpp)
+   - [Strings](./Character%20Arrays%20&%20Strings/Strings.cpp)
+
+    ___
+
+   - Coding Exercises
+
+     - [Digits and Spaces](./Character%20Arrays%20&%20Strings/Coding%20Exercises/digits_spaces.cpp)
+     - [Shortest Route](./Character%20Arrays%20&%20Strings/Coding%20Exercises/shortest_route.cpp)
+     - [Print Largest String](./Character%20Arrays%20&%20Strings/Coding%20Exercises/printLargestString.cpp)
      
