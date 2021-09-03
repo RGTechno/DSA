@@ -68,4 +68,5 @@
      - [Digits and Spaces](./Character%20Arrays%20&%20Strings/Coding%20Exercises/digits_spaces.cpp)
      - [Shortest Route](./Character%20Arrays%20&%20Strings/Coding%20Exercises/shortest_route.cpp)
      - [Print Largest String](./Character%20Arrays%20&%20Strings/Coding%20Exercises/printLargestString.cpp)
+     - [Check String Palindrome](./Character%20Arrays%20&%20Strings/Coding%20Exercises/CM_checkPalindrome.cpp)
      
