@@ -11,6 +11,7 @@
   - [Reverse a String](./DSA%20Sheet/Array/reverseAString.cpp)
   - [Sort Array of 0,1,2](./DSA%20Sheet/Array/sortArrayOf012.cpp)
   - [Negative First](./DSA%20Sheet/Array/negativeFirst.cpp)
+  - [Cyclic Rotate](./DSA%20Sheet/Array/cyclicRotate.cpp)
 </details>
 
 1. ### **Arrays**
