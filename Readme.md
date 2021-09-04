@@ -10,6 +10,7 @@
   - [Kadane's Algo](./DSA%20Sheet/Array/kadane'sAlgo.cpp)
   - [Reverse a String](./DSA%20Sheet/Array/reverseAString.cpp)
   - [Sort Array of 0,1,2](./DSA%20Sheet/Array/sortArrayOf012.cpp)
+  - [Sort Array of 0,1,2 (1 Pass)](./DSA%20Sheet/Array/sortArrayOf012_1pass.cpp)
   - [Negative First](./DSA%20Sheet/Array/negativeFirst.cpp)
   - [Cyclic Rotate](./DSA%20Sheet/Array/cyclicRotate.cpp)
 </details>
