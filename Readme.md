@@ -13,6 +13,7 @@
   - [Sort Array of 0,1,2 (1 Pass)](./DSA%20Sheet/Array/sortArrayOf012_1pass.cpp)
   - [Negative First](./DSA%20Sheet/Array/negativeFirst.cpp)
   - [Cyclic Rotate](./DSA%20Sheet/Array/cyclicRotate.cpp)
+  - [Union Of Array](./DSA%20Sheet/Array/unionOfArray.cpp)
 </details>
 
 1. ### **Arrays**
