@@ -14,6 +14,10 @@
   - [Negative First](./DSA%20Sheet/Array/negativeFirst.cpp)
   - [Cyclic Rotate](./DSA%20Sheet/Array/cyclicRotate.cpp)
   - [Union Of Array](./DSA%20Sheet/Array/unionOfArray.cpp)
+
+  ***Matrix***
+
+  - [Spiral Traversal](./DSA%20Sheet/Matrix/spiral_traverse.cpp)
 </details>
 
 1. ### **Arrays**
@@ -28,6 +32,11 @@
      - [Max Sum Brute Force O(N^3)](./Array/sumOfSubArray.cpp)
      - [Prefix Sum O(N^2)](./Array/maxSumSubArrayPrefix.cpp)
      - [Kadane's Algorithm O(N)](./Array/kadaneAlgo.cpp)
+
+   <!-- - 2D ARRAY
+     
+     - [Spiral Print](./Array/2D%Array/spiralPrint.cpp)
+     - [Wave Print](./Array/2D%Array/wavePrint.cpp) -->
 
      ___
 
