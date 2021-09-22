@@ -61,4 +61,26 @@ public:
             tail = n;
         }
     }
+
+    void insert(int d, int pos)
+    {
+
+        if (pos == 0)
+        {
+            push_front(d);
+            return;
+        }
+        Node *temp = head;
+
+        while (pos - 1 > 0)
+        {
+            temp = temp->next;
+            pos--;
+        }
+
+        Node *n = new Node(d);
+
+        n->next = temp->next;
+        temp->next = n;
+    }
 };

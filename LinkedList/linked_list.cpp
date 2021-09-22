@@ -16,6 +16,8 @@ int main()
     l.push_back(8);
     l.push_back(9);
     l.push_back(10);
+    l.insert(15,9);
+    l.insert(11,3);
 
     Node *head = l.getHead();
 
