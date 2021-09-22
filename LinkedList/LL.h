@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 class Node
 {
@@ -10,6 +11,10 @@ public:
     {
         data = d;
         next = NULL;
+    }
+    ~Node()
+    {
+        cout << "DELETING NODE " << data << endl;
     }
 };
 
@@ -115,6 +120,33 @@ public:
             head = head->next;
             temp->next = NULL;
             delete temp;
+        }
+    }
+
+    void reverse(Node * &head)
+    {
+        Node *temp = head;
+        Node *cs = head;
+        Node *prev = NULL;
+
+        while (cs != NULL)
+        {
+            temp = temp->next;
+            cs->next = prev;
+            prev = cs;
+            cs = temp;
+        }
+
+        head= prev;
+    }
+
+    ~List()
+    {
+        cout << "DELETING LIST" << endl;
+        if (head != NULL)
+        {
+            delete head;
+            head = NULL;
         }
     }
 };

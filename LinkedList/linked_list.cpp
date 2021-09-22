@@ -23,6 +23,15 @@ int main()
     l.pop_front();
 
     Node *head = l.getHead();
+    // while (head != NULL)
+    // {
+    //     cout << head->data << "->";
+    //     head = head->next;
+    // }
+    // cout << endl;
+
+    l.reverse(head);
+
     while (head != NULL)
     {
         cout << head->data << "->";
