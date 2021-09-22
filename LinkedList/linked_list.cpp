@@ -21,13 +21,14 @@ int main()
     // cout<<endl<<l.search(2)<<endl;
 
     Node *head = l.getHead();
+    cout<<l.rec_search(head,11);
 
-    while (head != NULL)
-    {
-        cout << head->data << "->";
-        head = head->next;
-    }
-    cout << endl;
+    // while (head != NULL)
+    // {
+    //     cout << head->data << "->";
+    //     head = head->next;
+    // }
+    // cout << endl;
 
     return 0;
 }

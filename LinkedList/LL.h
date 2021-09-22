@@ -96,4 +96,14 @@ public:
 
         return false;
     }
+
+    bool rec_search(Node *head, int d)
+    {
+        if (head == NULL)
+            return false;
+
+        if (head->data == d)
+            return true;
+        return rec_search(head->next, d);
+    }
 };
