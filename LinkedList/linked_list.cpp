@@ -18,6 +18,7 @@ int main()
     l.push_back(10);
     l.insert(15,9);
     l.insert(11,3);
+    // cout<<endl<<l.search(2)<<endl;
 
     Node *head = l.getHead();
 

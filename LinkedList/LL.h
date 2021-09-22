@@ -83,4 +83,17 @@ public:
         n->next = temp->next;
         temp->next = n;
     }
+
+    bool search(int d)
+    {
+
+        while (head != NULL)
+        {
+            if (head->data == d)
+                return true;
+            head = head->next;
+        }
+
+        return false;
+    }
 };
