@@ -106,4 +106,15 @@ public:
             return true;
         return rec_search(head->next, d);
     }
+
+    void pop_front()
+    {
+        if (head != NULL)
+        {
+            Node *temp = head;
+            head = head->next;
+            temp->next = NULL;
+            delete temp;
+        }
+    }
 };

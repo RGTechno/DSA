@@ -16,19 +16,19 @@ int main()
     l.push_back(8);
     l.push_back(9);
     l.push_back(10);
-    l.insert(15,9);
-    l.insert(11,3);
+    l.insert(15, 9);
+    l.insert(11, 3);
     // cout<<endl<<l.search(2)<<endl;
+    // cout<<l.rec_search(head,11);
+    l.pop_front();
 
     Node *head = l.getHead();
-    cout<<l.rec_search(head,11);
-
-    // while (head != NULL)
-    // {
-    //     cout << head->data << "->";
-    //     head = head->next;
-    // }
-    // cout << endl;
+    while (head != NULL)
+    {
+        cout << head->data << "->";
+        head = head->next;
+    }
+    cout << endl;
 
     return 0;
 }
