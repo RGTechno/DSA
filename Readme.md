@@ -14,6 +14,7 @@
   - [Negative First](./DSA%20Sheet/Array/negativeFirst.cpp)
   - [Cyclic Rotate](./DSA%20Sheet/Array/cyclicRotate.cpp)
   - [Union Of Array](./DSA%20Sheet/Array/unionOfArray.cpp)
+  - [Kth Max Min](./DSA%20Sheet/Array/kthMaxMin.cpp)
 
   ***Matrix***
 
@@ -33,10 +34,10 @@
      - [Prefix Sum O(N^2)](./Array/maxSumSubArrayPrefix.cpp)
      - [Kadane's Algorithm O(N)](./Array/kadaneAlgo.cpp)
 
-   <!-- - 2D ARRAY
+   - 2D ARRAY
      
-     - [Spiral Print](./Array/2D%Array/spiralPrint.cpp)
-     - [Wave Print](./Array/2D%Array/wavePrint.cpp) -->
+     - [Spiral Print](./Array/2D_Array/spiralPrint.cpp)
+     - [Wave Print](./Array/2D_Array/wavePrint.cpp)
 
      ___
 
@@ -56,6 +57,8 @@
    - [Insertion Sort](./Sorting%20Algorithms/insertionSort.cpp)
    - [Counting Sort](./Sorting%20Algorithms/countingSort.cpp)
    - [Inbuilt Sort](./Sorting%20Algorithms/inbuiltSort.cpp)
+   - [Merge Sort](./Sorting%20Algorithms/mergeSort.cpp)
+   - [Quick Sort](./Sorting%20Algorithms/quickSort.cpp)
 
     ___
 
@@ -83,4 +86,34 @@
      - [Print Largest String](./Character%20Arrays%20&%20Strings/Coding%20Exercises/printLargestString.cpp)
      - [Check String Palindrome](./Character%20Arrays%20&%20Strings/Coding%20Exercises/CM_checkPalindrome.cpp)
      - [Run Length Encoding](./Character%20Arrays%20&%20Strings/Coding%20Exercises/CM_stringCompression.cpp)
+
+
+4. ### **Bit Manipulation**
+
+   - [Bit Operations](./Bit%20Manipulation/bit_operations.cpp)
+   - [Count Set Bits](./Bit%20Manipulation/count_setBits.cpp)
+   - [Decimal To Binary](./Bit%20Manipulation/dec_to_bin.cpp)
+   - [Find Exponents](./Bit%20Manipulation/exponentials.cpp)
+   - [Odd/Even](./Bit%20Manipulation/odd_even.cpp)
+   - [Replace Bits](./Bit%20Manipulation/replace_bits.cpp)
+   - [Shift Operators](./Bit%20Manipulation/shift_operators.cpp)
+   - [Two Power](./Bit%20Manipulation/two_power.cpp)
+
+
+5. ### **Recursion**
+
+   - [Print Decreasing Number](./Recursion/decreasing_number.cpp)
+   - [Print Increasing Number](./Recursion/increasing_number.cpp)
+   - [Factorial of a number](./Recursion/factorial.cpp)
+   - [Fibonacci Series](./Recursion/fibonacci.cpp)
+   - [First Occurence](./Recursion/first_occurence.cpp)
+   - [Last Occurence](./Recursion/last_occurence.cpp)
+   - [Power](./Recursion/power.cpp)
+   - [Check for sorted array](./Recursion/sortedArrayCheck.cpp)
+   - [Bubble Sort using recursion](./Recursion/bubble_sort.cpp)
+
+6. ### **Linked List**
+
+   - [Linked List Functions & Implementation](./LinkedList/LL.h)
+   - [Using Linked List](./LinkedList/linked_list.cpp)
      
