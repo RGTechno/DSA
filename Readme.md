@@ -123,4 +123,6 @@
    - [Using Stack via Linked List](./Stacks/stackLL.cpp)
    - [Stacks Implementation Using Vector](./Stacks/stack_vector.h)
    - [Using Stack via Vector](./Stacks/stack_vector.cpp)
+   - [Insert Element at bottom of stack](./Stacks/insertAtBottom.cpp)
+   - [Reverse a stack](./Stacks/stack_reverse.cpp)
      
