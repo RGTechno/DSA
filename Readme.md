@@ -116,4 +116,11 @@
 
    - [Linked List Functions & Implementation](./LinkedList/LL.h)
    - [Using Linked List](./LinkedList/linked_list.cpp)
+
+7. ### **Stacks**
+
+   - [Stacks Implementation Using Linked List](./Stacks/stackLL.h)
+   - [Using Stack via Linked List](./Stacks/stackLL.cpp)
+   - [Stacks Implementation Using Vector](./Stacks/stack_vector.h)
+   - [Using Stack via Vector](./Stacks/stack_vector.cpp)
      
