@@ -126,6 +126,8 @@
    - [Using Stack via Vector](./Stacks/stack_vector.cpp)
    - [Insert Element at bottom of stack](./Stacks/insertAtBottom.cpp)
    - [Reverse a stack](./Stacks/stack_reverse.cpp)
+   - [Stack using 2 queues (IMPLEMENTATION)](./Stacks/stack_using_queues.h)
+   - [Stack using 2 queues (USAGE)](./Stacks/stack_using_queues.cpp)
 
 8. ### **Queue**
 
