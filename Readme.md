@@ -122,7 +122,13 @@
    - [Stacks Implementation Using Linked List](./Stacks/stackLL.h)
    - [Using Stack via Linked List](./Stacks/stackLL.cpp)
    - [Stacks Implementation Using Vector](./Stacks/stack_vector.h)
+   - [Stack STL](./Stacks/stack_stl.cpp)
    - [Using Stack via Vector](./Stacks/stack_vector.cpp)
    - [Insert Element at bottom of stack](./Stacks/insertAtBottom.cpp)
    - [Reverse a stack](./Stacks/stack_reverse.cpp)
+
+8. ### **Queue**
+
+   - [Queue Implementation](./Queues/queue.h)
+   - [Queue Usage](./Queues/queue.cpp)
      
