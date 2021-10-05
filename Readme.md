@@ -16,6 +16,7 @@
   - [Union Of Array](./DSA%20Sheet/Array/unionOfArray.cpp)
   - [Kth Max Min](./DSA%20Sheet/Array/kthMaxMin.cpp)
   - [Pair Sum](./DSA%20Sheet/Array/pairSum.cpp)
+  - [Sub array with 0 sum](./DSA%20Sheet/Array/subArrayWith0Sum.cpp)
 
   ***Matrix***
 
