@@ -15,6 +15,7 @@
   - [Cyclic Rotate](./DSA%20Sheet/Array/cyclicRotate.cpp)
   - [Union Of Array](./DSA%20Sheet/Array/unionOfArray.cpp)
   - [Kth Max Min](./DSA%20Sheet/Array/kthMaxMin.cpp)
+  - [Pair Sum](./DSA%20Sheet/Array/pairSum.cpp)
 
   ***Matrix***
 
