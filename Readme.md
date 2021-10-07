@@ -143,10 +143,10 @@
 
 10. ### **Dynamic Programming**
 
-   - [Fibonacci Using DP](./Dynamic%20Programming/fibonacci.cpp)   
-   - [Coin Change](./Dynamic%20Programming/coin_change.cpp) 
-   - [Longest Common Subsequence](./Dynamic%20Programming/lcs.cpp)   
-   - [Knapsack Problem](./Dynamic%20Programming/knapsack.cpp)   
-   - [Wines Problem](./Dynamic%20Programming/wines_problem.cpp)   
+    - [Fibonacci Using DP](./Dynamic%20Programming/fibonacci.cpp)   
+    - [Coin Change](./Dynamic%20Programming/coin_change.cpp) 
+    - [Longest Common Subsequence](./Dynamic%20Programming/lcs.cpp)   
+    - [Knapsack Problem](./Dynamic%20Programming/knapsack.cpp)   
+    - [Wines Problem](./Dynamic%20Programming/wines_problem.cpp)   
 
      
