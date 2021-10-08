@@ -18,6 +18,7 @@
   - [Pair Sum](./DSA%20Sheet/Array/pairSum.cpp)
   - [Sub array with 0 sum](./DSA%20Sheet/Array/subArrayWith0Sum.cpp)
   - [Array Subset of another array](./DSA%20Sheet/Array/array_Subset_ofArray.cpp)
+  - [Chocolate Distribution Problem](./DSA%20Sheet/Array/choc_dist.cpp)
 
   ***Matrix***
 
