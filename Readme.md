@@ -20,6 +20,7 @@
   - [Array Subset of another array](./DSA%20Sheet/Array/array_Subset_ofArray.cpp)
   - [Chocolate Distribution Problem](./DSA%20Sheet/Array/choc_dist.cpp)
   - [3 Way Partitioning](./DSA%20Sheet/Array/3_way_part.cpp)
+  - [3 Way Partitioning (Method 2)](./DSA%20Sheet/Array/3_way_part_2.cpp)
 
   ***Matrix***
 
