@@ -21,6 +21,7 @@
   - [Chocolate Distribution Problem](./DSA%20Sheet/Array/choc_dist.cpp)
   - [3 Way Partitioning](./DSA%20Sheet/Array/3_way_part.cpp)
   - [3 Way Partitioning (Method 2)](./DSA%20Sheet/Array/3_way_part_2.cpp)
+  - [Palindromic Array](./DSA%20Sheet/Array/palindromic_array.cpp)
 
   ***Matrix***
 
