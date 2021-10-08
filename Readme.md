@@ -22,6 +22,7 @@
   - [3 Way Partitioning](./DSA%20Sheet/Array/3_way_part.cpp)
   - [3 Way Partitioning (Method 2)](./DSA%20Sheet/Array/3_way_part_2.cpp)
   - [Palindromic Array](./DSA%20Sheet/Array/palindromic_array.cpp)
+  - [Find Median](./DSA%20Sheet/Array/median.cpp)
 
   ***Matrix***
 
