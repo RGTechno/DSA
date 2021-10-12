@@ -24,6 +24,7 @@
   - [Palindromic Array](./DSA%20Sheet/Array/palindromic_array.cpp)
   - [Find Median](./DSA%20Sheet/Array/median.cpp)
   - [Merge Interval](./DSA%20Sheet/Array/merge_interval.cpp)
+  - [Longest Common Subsequence](./DSA%20Sheet/Array/longest_common_sub.cpp)
 
   ***Matrix***
 
