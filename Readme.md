@@ -26,6 +26,7 @@
   - [Merge Interval](./DSA%20Sheet/Array/merge_interval.cpp)
   - [Longest Common Subsequence](./DSA%20Sheet/Array/longest_common_sub.cpp)
   - [Count number of elements that appear more than n/k times](./DSA%20Sheet/Array/count_nBYk.cpp)
+  - [Triple Sum](./DSA%20Sheet/Array/triple_sum.cpp)
 
   ***Matrix***
 
