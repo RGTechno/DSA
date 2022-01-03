@@ -160,5 +160,6 @@
     - [Knapsack Methods](./Dynamic%20Programming/knapSack_methods.cpp)  
     - [Wines Problem](./Dynamic%20Programming/wines_problem.cpp) 
     - [Subset Sum Problem](./Dynamic%20Programming/subset_sum_problem.cpp)  
+    - [Equal Partition Sum Problem](./Dynamic%20Programming/equal_partition_sum.cpp)
 
      
