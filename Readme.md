@@ -158,6 +158,7 @@
     - [Longest Common Subsequence](./Dynamic%20Programming/lcs.cpp)   
     - [Knapsack Problem](./Dynamic%20Programming/knapsack.cpp) 
     - [Knapsack Methods](./Dynamic%20Programming/knapSack_methods.cpp)  
-    - [Wines Problem](./Dynamic%20Programming/wines_problem.cpp)   
+    - [Wines Problem](./Dynamic%20Programming/wines_problem.cpp) 
+    - [Subset Sum Problem](./Dynamic%20Programming/subset_sum_problem.cpp)  
 
      
