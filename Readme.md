@@ -161,5 +161,6 @@
     - [Wines Problem](./Dynamic%20Programming/wines_problem.cpp) 
     - [Subset Sum Problem](./Dynamic%20Programming/subset_sum_problem.cpp)  
     - [Equal Partition Sum Problem](./Dynamic%20Programming/equal_partition_sum.cpp)
+    - [Minimum Sum Partition Problem](./Dynamic%20Programming/minimum_sum_partition.cpp)
 
      
