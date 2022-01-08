@@ -1,3 +1,7 @@
+// problem similar to climb stairs
+
+// O(sum)
+
 #include <bits/stdc++.h>
 using namespace std;
 
