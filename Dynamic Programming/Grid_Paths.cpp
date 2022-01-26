@@ -3,10 +3,11 @@ using namespace std;
 
 #define endl "\n"
 #define int long long int
+#define mod 1000000007
 
 int dp[1001][1001];
 
-int pathWays(vector<vector<char>> arr,int n,int sr,int sc){
+int pathWays(vector<vector<char>> &arr,int n,int sr,int sc){
 
     if(sr<0 or sc<0 or sr==n or sc==n or arr[sr][sc]=='*'){
         return 0;
@@ -15,10 +16,7 @@ int pathWays(vector<vector<char>> arr,int n,int sr,int sc){
 
     if(dp[sr][sc]!=-1) return dp[sr][sc];
 
-    int hp = pathWays(arr,n,sr,sc+1);
-    int vp = pathWays(arr,n,sr+1,sc);
-
-    return dp[sr][sc] = hp+vp;
+    return dp[sr][sc] = (pathWays(arr,n,sr,sc+1)+pathWays(arr,n,sr+1,sc))%mod;
 }
 
 int solve(){

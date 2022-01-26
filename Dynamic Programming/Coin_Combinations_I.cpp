@@ -5,22 +5,28 @@ using namespace std;
 #define int long long int
 #define mod 1000000007
 
-int dp[101][1000001];
+int dp[1000001];
 
 int maxWays(int coins[],int n,int sum){
 
     if(sum<0) return 0;
+    
+    int &ans=dp[sum];
+
     if(sum==0) return 1;
-    if(n==0) return sum==0;
 
-    if(dp[n][sum]!=-1) return dp[n][sum];
+    if(ans!=-1) return ans;
 
-    for(int i=n-1;i>=0;i--){
+    ans=0;
+
+    for(int i=0;i<n;i++){
         if(coins[i]<=sum){
-            return dp[n][sum]=(maxWays(coins,n,sum-coins[i])+maxWays(coins,n-1,sum))%mod;
+            ans +=  (maxWays(coins,n,sum-coins[i]));
+            ans%=mod;
         }
     }
-    return dp[n][sum]=maxWays(coins,n-1,sum);
+
+    return ans;
 }
 
 int solve(){

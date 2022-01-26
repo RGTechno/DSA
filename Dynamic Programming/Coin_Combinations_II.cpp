@@ -7,27 +7,27 @@ using namespace std;
 
 
 int maxWays(int coins[],int n,int sum){
-
-    int dp[n+1][sum+1];
-
-    if(sum<0) return 0;
+    
+    int dp[2][sum+1];
 
     for(int i=0;i<n+1;i++){
         for(int j=0;j<sum+1;j++){
-            if(i==0) dp[i][j]=j==0;
-        }
-    }
+            int current = i%2,prev=(i+1)%2;
+            int &ans = dp[current][j];
 
-    for(int i=1;i<n+1;i++){
-        for(int j=1;j<sum+1;j++){
-            if(coins[i-1]<=j){
-                dp[i][j] = (dp[i-1][j]+dp[i][j-coins[i-1]])%mod;
+            if(i==0){
+                ans=0;
             }
-            else dp[i][j] = dp[i-1][j];
+            else if(j==0) ans=1;
+            else if(coins[i-1]<=j){
+                ans=(dp[prev][j]+dp[current][j-coins[i-1]])%mod;
+            }
+
+            else ans=dp[prev][j];
         }
     }
 
-    return dp[n][sum];    
+    return dp[n%2][sum];
 }
 
 int solve(){
